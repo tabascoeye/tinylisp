@@ -7,3 +7,4 @@ test_runner
 lisp_scanner.c
 test_scanner
 *.o
+README.md
